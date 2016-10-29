@@ -10,6 +10,7 @@ matplotlib
 pandas
 
 To Run:
+
 1. Install dependencies from the list above. 
 
 2. run `python3 perceptron.py`
